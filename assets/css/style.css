@@ -8,7 +8,7 @@ body {
 }
 
 #userPhoto {
-    #width: 100px;
+    /*width: 100px;*/
     height: 100px;
     display: block;
     margin: 10px auto;
